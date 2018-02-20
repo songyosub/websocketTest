@@ -2,7 +2,6 @@ package websocketTest;
 
 public class Coin  {
 	public String name;
-	public String a;
 	public String[][] askKRW;
 	public String[][] bidKRW;
 	public String[][] askBTC;
